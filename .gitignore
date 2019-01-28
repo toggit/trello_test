@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# trello token
+token.json
+
 # pycharm config file ignore
 .DS_Store
 .idea
