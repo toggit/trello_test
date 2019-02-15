@@ -1,0 +1,9 @@
+
+# testcase
+
+0. fetch data from database or csv for tests.
+
+1. go to url: https://www.hist.org.il/
+2. login- user:000000000 , pass:000000000
+3. go to url https://www.hist.org.il/business.aspx?catnumber=@param
+

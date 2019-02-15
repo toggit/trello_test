@@ -1,0 +1,4 @@
+var elems = document.querySelectorAll("*"),
+    res = Array.from(elems).find(v => v.textContent == 'כניסה שישי, שבת וחג');
+
+    console.log(res ? 'found!' : 'not found');
